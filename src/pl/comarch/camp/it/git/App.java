@@ -5,5 +5,7 @@ public class App {
         System.out.println("cos");
 
         System.out.println("cos nowego");
+
+        System.out.println("cos");
     }
 }
